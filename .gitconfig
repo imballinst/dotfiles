@@ -1,2 +1,2 @@
-[branch]
-  pager = cat
+[pager]
+        branch = false
